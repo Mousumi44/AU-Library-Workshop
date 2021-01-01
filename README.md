@@ -12,4 +12,4 @@ Set-Up: Not required (This workshop works best with a laptop or desktop)
 
 Time: 60 minutes
 
-[![](https://img.shields.io/badge/Notebook-Run_in_Colab-EE4C2C?logo=PyTorch)](https://colab.research.google.com/drive/1UFVFtR5qGkCHapoQbxBkQy5obrCmSPl5?usp=sharing)
+[![](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1UFVFtR5qGkCHapoQbxBkQy5obrCmSPl5?usp=sharing)
