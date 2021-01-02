@@ -14,5 +14,5 @@ Time: 60 minutes
 
 [![](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1UFVFtR5qGkCHapoQbxBkQy5obrCmSPl5?usp=sharing)
 
-**Conducted by - [Mousumi Akter](https://sites.google.com/view/mousumi-akter/)**
+**Instructor - [Mousumi Akter](https://sites.google.com/view/mousumi-akter/)**
 
